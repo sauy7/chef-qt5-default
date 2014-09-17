@@ -4,4 +4,4 @@ Installs qt5-default package.
 
 ## Supported platforms
 
- * Unbuntu 14.04
+ * Ubuntu 14.04
