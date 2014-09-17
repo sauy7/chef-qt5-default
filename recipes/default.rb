@@ -3,6 +3,6 @@
 # Recipe:: default
 #
 
-package 'qt5-default' do
-  action :install
-end
+include_recipe 'qt5-default::webkit'
+
+package 'qt5-default'
